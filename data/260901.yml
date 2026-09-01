@@ -1,0 +1,69 @@
+about:
+  description: WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
+  license: Apache-2.0
+  homepage: https://WasmEdge.org
+  head: ab9a3d7
+  archived: false
+  latestVersion: 0.17.2-rc.1
+  collectedAt: 2026-09-01T05:37:37Z
+timeline:
+  created: 2019-11-29
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-28
+popularity:
+  star: 10792
+  watcher: 94
+  fork: 1160
+  release: 125
+  contributor: 255
+  pullRequest: 668
+  issue: 1765
+language:
+  C++: 8608625
+  C: 237248
+  CMake: 209768
+  Shell: 73320
+  Python: 58541
+  Rust: 15727
+  WebAssembly: 14073
+  HCL: 6444
+  Makefile: 1839
+  Nix: 1453
+  Linker Script: 1280
+  Objective-C++: 844
+  JavaScript: 479
+  Dockerfile: 30
+totalLine: 9229671
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 3
+    mergedPR: 45
+    openPR: 11
+    closedIssue: 6
+    openIssue: 4
+    commit: 45
+  last90d:
+    since: 2026-06-03
+    release: 8
+    mergedPR: 188
+    openPR: 41
+    closedIssue: 59
+    openIssue: 16
+    commit: 307
+  last180d:
+    since: 2026-03-05
+    release: 22
+    mergedPR: 326
+    openPR: 51
+    closedIssue: 79
+    openIssue: 31
+    commit: 465
+  last360d:
+    since: 2025-09-06
+    release: 29
+    mergedPR: 487
+    openPR: 55
+    closedIssue: 150
+    openIssue: 41
+    commit: 659
