@@ -2,26 +2,26 @@ about:
   description: "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices."
   license: Apache-2.0
   homepage: https://WasmEdge.org
-  head: ff889f5
+  head: 3e63e42
   archived: false
   latestVersion: "0.17.2-rc.1"
-  collectedAt: 2026-09-07T06:07:54Z
+  collectedAt: 2026-09-07T18:24:09Z
 timeline:
   created: 2019-11-29
-  lastCommit: 2026-09-04
+  lastCommit: 2026-09-07
   lastRelease: 2026-08-28
 popularity:
-  star: 10795
-  watcher: 97
+  star: 10796
+  watcher: 96
   fork: 1162
   release: 125
   contributor: 256
-  pullRequest: 3340
-  issue: 1766
+  pullRequest: 3345
+  issue: 1767
 language:
-  C++: 9140732
+  C++: 9150066
   C: 237248
-  CMake: 212462
+  CMake: 212441
   Shell: 73320
   Pawn: 69087
   Python: 58541
@@ -34,74 +34,74 @@ language:
   Objective-C++: 844
   JavaScript: 479
   Dockerfile: 30
-totalBytes: 9833559
+totalBytes: 9842872
 recent:
   last30d:
     since: 2026-08-08
     release: 3
-    mergedPR: 41
+    mergedPR: 45
     openPR: 8
     closedIssue: 8
-    openIssue: 2
-    commit: 43
+    openIssue: 3
+    commit: 50
   last60d:
     since: 2026-07-09
     release: 3
-    mergedPR: 91
-    openPR: 20
-    closedIssue: 29
+    mergedPR: 96
+    openPR: 19
+    closedIssue: 30
     openIssue: 7
-    commit: 109
+    commit: 116
   last90d:
     since: 2026-06-09
     release: 8
-    mergedPR: 185
-    openPR: 33
-    closedIssue: 64
+    mergedPR: 190
+    openPR: 31
+    closedIssue: 65
     openIssue: 11
-    commit: 270
+    commit: 278
   last180d:
     since: 2026-03-11
     release: 22
-    mergedPR: 327
-    openPR: 45
-    closedIssue: 85
-    openIssue: 25
-    commit: 502
+    mergedPR: 332
+    openPR: 42
+    closedIssue: 87
+    openIssue: 24
+    commit: 510
   last360d:
     since: 2025-09-12
     release: 29
-    mergedPR: 486
-    openPR: 49
-    closedIssue: 155
-    openIssue: 33
-    commit: 696
+    mergedPR: 491
+    openPR: 46
+    closedIssue: 157
+    openIssue: 32
+    commit: 704
   last720d:
     since: 2024-09-17
     release: 36
-    mergedPR: 836
-    openPR: 52
-    closedIssue: 292
-    openIssue: 58
-    commit: 1183
+    mergedPR: 841
+    openPR: 49
+    closedIssue: 294
+    openIssue: 57
+    commit: 1191
 total:
   release: 125
-  mergedPR: 2676
-  openPR: 59
-  closedIssue: 1666
-  openIssue: 100
-  commit: 4789
+  mergedPR: 2681
+  openPR: 56
+  closedIssue: 1668
+  openIssue: 99
+  commit: 4797
 ---
 path: /home/runner/.x-repo/github.com/WasmEdge/WasmEdge
-collectedAt: 2026-09-07T06:07:58Z
+collectedAt: 2026-09-07T18:24:14Z
 loc:
   Cpp:
-    code: 142565
-    comments: 12389
-    blanks: 17967
+    code: 142778
+    comments: 12394
+    blanks: 17977
     files: 428
   CHeader:
-    code: 43730
+    code: 43737
     comments: 10313
     blanks: 7705
     files: 360
@@ -121,9 +121,9 @@ loc:
     blanks: 58
     files: 4
   CMake:
-    code: 5372
-    comments: 761
-    blanks: 841
+    code: 5369
+    comments: 764
+    blanks: 840
     files: 100
   C:
     code: 4102
@@ -246,15 +246,15 @@ loc:
     blanks: 0
     files: 14
 total:
-  code: 251626
-  comments: 31670
-  blanks: 32951
+  code: 251843
+  comments: 31678
+  blanks: 32960
   files: 1105
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:08:00+00:00
+  collectedAt: 2026-09-07T18:24:15+00:00
   platform:
     darwin/arm64:
       name:  WasmEdge-0.17.1-darwin_arm64.tar.gz
