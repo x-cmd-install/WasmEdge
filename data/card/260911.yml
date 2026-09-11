@@ -7,7 +7,7 @@ about:
   latestVersion: "0.17.2-rc.1"
   latestRelease: "0.17.1"
   latestPrerelease: "0.17.2-rc.1"
-  collectedAt: 2026-09-11T00:01:26Z
+  collectedAt: 2026-09-11T06:14:04Z
 timeline:
   created: 2019-11-29
   lastCommit: 2026-09-09
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-07-06
   lastPrerelease: 2026-08-28
 popularity:
-  star: 10799
+  star: 10798
   watcher: 96
   fork: 1166
   release: 125
   contributor: 256
-  pullRequest: 3351
+  pullRequest: 3353
   issue: 1769
 language:
   C++: 9165844
@@ -44,7 +44,7 @@ recent:
     since: 2026-08-12
     release: 3
     mergedPR: 37
-    openPR: 9
+    openPR: 11
     closedIssue: 8
     openIssue: 5
     commit: 52
@@ -52,7 +52,7 @@ recent:
     since: 2026-07-13
     release: 3
     mergedPR: 90
-    openPR: 22
+    openPR: 24
     closedIssue: 26
     openIssue: 9
     commit: 118
@@ -60,7 +60,7 @@ recent:
     since: 2026-06-13
     release: 6
     mergedPR: 175
-    openPR: 31
+    openPR: 33
     closedIssue: 59
     openIssue: 11
     commit: 280
@@ -68,7 +68,7 @@ recent:
     since: 2026-03-15
     release: 22
     mergedPR: 332
-    openPR: 44
+    openPR: 46
     closedIssue: 86
     openIssue: 25
     commit: 512
@@ -76,7 +76,7 @@ recent:
     since: 2025-09-16
     release: 29
     mergedPR: 489
-    openPR: 49
+    openPR: 51
     closedIssue: 154
     openIssue: 33
     commit: 706
@@ -84,20 +84,20 @@ recent:
     since: 2024-09-21
     release: 35
     mergedPR: 832
-    openPR: 52
+    openPR: 54
     closedIssue: 290
     openIssue: 59
     commit: 1180
 total:
   release: 125
   mergedPR: 2683
-  openPR: 59
+  openPR: 61
   closedIssue: 1668
   openIssue: 101
   commit: 4799
 ---
 path: /home/runner/.x-repo/github.com/WasmEdge/WasmEdge
-collectedAt: 2026-09-11T00:01:33Z
+collectedAt: 2026-09-11T06:14:10Z
 loc:
   Cpp:
     code: 143123
