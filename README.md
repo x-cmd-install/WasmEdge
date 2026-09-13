@@ -48,12 +48,12 @@ Total: **251,929** lines of code across **822** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 3 | 40 | 9 | 9 | 4 | 58 |
-| last60d | 2026-07-14 | 3 | 89 | 22 | 26 | 8 | 124 |
-| 90d | 2026-06-14 | 6 | 177 | 32 | 60 | 10 | 286 |
-| last180d | 2026-03-16 | 22 | 327 | 44 | 87 | 24 | 518 |
-| 360d | 2025-09-17 | 29 | 492 | 49 | 155 | 32 | 712 |
-| last720d | 2024-09-22 | 35 | 835 | 52 | 291 | 58 | 1186 |
+| 30d | 2026-08-14 | 3 | 38 | 9 | 9 | 4 | 58 |
+| last60d | 2026-07-15 | 3 | 89 | 22 | 23 | 8 | 124 |
+| 90d | 2026-06-15 | 6 | 176 | 32 | 57 | 9 | 286 |
+| last180d | 2026-03-17 | 22 | 327 | 44 | 86 | 24 | 518 |
+| 360d | 2025-09-18 | 29 | 492 | 49 | 154 | 32 | 712 |
+| last720d | 2024-09-23 | 35 | 834 | 52 | 291 | 58 | 1186 |
 
 ## Release assets
 
@@ -175,4 +175,4 @@ Install metadata for WasmEdge lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:57:20Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T06:18:34Z._
