@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 13365,
       "digest": "sha256:ec8be4c96a9d2136656671221ab92bab7e0f6173ac3c3f8d8b2e5afca5fe5ef1",
-      "download_count": 412,
+      "download_count": 416,
       "created_at": "2026-07-06T12:40:13Z",
       "updated_at": "2026-07-06T12:40:14Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.17.1/SHA256SUM"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1060050,
       "digest": "sha256:7553f98183dd5247799c9c99ef61dee767d76c52def17dd35670ed3f89478140",
-      "download_count": 25,
+      "download_count": 26,
       "created_at": "2026-07-06T10:10:05Z",
       "updated_at": "2026-07-06T10:10:06Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.17.1/WasmEdge-0.17.1-android_aarch64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 58883069,
       "digest": "sha256:7f6810f0676f8405586a3edb350ce9a6eb256ef7118f2e327f131b7833d0033e",
-      "download_count": 780,
+      "download_count": 783,
       "created_at": "2026-07-06T10:10:51Z",
       "updated_at": "2026-07-06T10:10:54Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.17.1/WasmEdge-0.17.1-darwin_arm64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 18823728,
       "digest": "sha256:b39aa277fe9c0c60cc44e0713fc6ef5699fc688322d216564f3853ce419230db",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-07-06T10:12:24Z",
       "updated_at": "2026-07-06T10:12:25Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.17.1/WasmEdge-0.17.1-manylinux_2_28_aarch64.rpm"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 25263335,
       "digest": "sha256:6d7762429083e787ccbddf629868bb59de4325ccdcc31d9f7bd240adcdd9fe9d",
-      "download_count": 422,
+      "download_count": 427,
       "created_at": "2026-07-06T10:12:26Z",
       "updated_at": "2026-07-06T10:12:27Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.17.1/WasmEdge-0.17.1-manylinux_2_28_aarch64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 27206596,
       "digest": "sha256:27a1abec072ddf45b40e2e81e33c1e5fe9b241f31fd1bbf0182f05097489a07a",
-      "download_count": 836,
+      "download_count": 844,
       "created_at": "2026-07-06T10:12:02Z",
       "updated_at": "2026-07-06T10:12:03Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.17.1/WasmEdge-0.17.1-manylinux_2_28_x86_64.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 3550530,
       "digest": "sha256:c8881a8c43407fc424ccd8586594a79068305b31c76aad0025efea9339be18e0",
-      "download_count": 218,
+      "download_count": 223,
       "created_at": "2026-07-06T10:07:25Z",
       "updated_at": "2026-07-06T10:07:25Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.17.1/WasmEdge-0.17.1-src.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 33897251,
       "digest": "sha256:636fd723621ffa7489f65b99b7db2c23196ddfa7f9d2b0088efe8a4fb82d1ad6",
-      "download_count": 307,
+      "download_count": 315,
       "created_at": "2026-07-06T10:10:13Z",
       "updated_at": "2026-07-06T10:10:14Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.17.1/WasmEdge-0.17.1-ubuntu20.04_aarch64.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 35331689,
       "digest": "sha256:6d307584d5224b00e6f1f42e6c29931b81fa95992e9ea6189d7292ac04cf4dc3",
-      "download_count": 2448,
+      "download_count": 2456,
       "created_at": "2026-07-06T10:11:21Z",
       "updated_at": "2026-07-06T10:11:23Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.17.1/WasmEdge-0.17.1-ubuntu20.04_x86_64.tar.gz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 25651343,
       "digest": "sha256:fe5415174e8fd2fcaeac75fa3bd81259ed1d4ae62768adaf5076fd4c41c29cae",
-      "download_count": 108,
+      "download_count": 110,
       "created_at": "2026-07-06T10:11:56Z",
       "updated_at": "2026-07-06T10:11:57Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.17.1/WasmEdge-0.17.1-windows-msvc.zip"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 24166400,
       "digest": "sha256:0b2eaedd59b744da6f4548c7498454d34e2d8a71df75ab9c05084fae16e89568",
-      "download_count": 169,
+      "download_count": 173,
       "created_at": "2026-07-06T10:13:38Z",
       "updated_at": "2026-07-06T10:13:39Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.17.1/WasmEdge-0.17.1-windows.msi"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 1794100,
       "digest": "sha256:d65ae62e509ad37c136050ba146295108f3ce87e607d89d05e0c75ed7c7bf0f8",
-      "download_count": 141,
+      "download_count": 142,
       "created_at": "2026-07-06T10:12:55Z",
       "updated_at": "2026-07-06T10:12:56Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.17.1/WasmEdge-plugin-wasi_crypto-0.17.1-manylinux_2_28_x86_64.tar.gz"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 2658076,
       "digest": "sha256:06b2099701300137e44d4265d163e4cdd604aac78ea3e2d6ddbd3825cc226dca",
-      "download_count": 241,
+      "download_count": 245,
       "created_at": "2026-07-06T12:42:20Z",
       "updated_at": "2026-07-06T12:42:21Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.17.1/WasmEdge-plugin-wasi_nn-ggml-0.17.1-manylinux_2_28_aarch64.tar.gz"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 2904771,
       "digest": "sha256:84915d80cc80b7cf7dae70362ab916016d4c736ee63cf7477ea0795fb865555a",
-      "download_count": 110,
+      "download_count": 115,
       "created_at": "2026-07-06T12:42:19Z",
       "updated_at": "2026-07-06T12:42:20Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.17.1/WasmEdge-plugin-wasi_nn-ggml-0.17.1-manylinux_2_28_x86_64.tar.gz"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 2512458,
       "digest": "sha256:2be0928a5a4dbb725d4fa62285a1034b817b5374d7a89ea5b8a0114fa5f6a625",
-      "download_count": 108,
+      "download_count": 109,
       "created_at": "2026-07-06T12:42:16Z",
       "updated_at": "2026-07-06T12:42:19Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.17.1/WasmEdge-plugin-wasi_nn-ggml-0.17.1-ubuntu20.04_aarch64.tar.gz"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 2682714,
       "digest": "sha256:e260599bcf5c35029830e3336f4ee7db969ab6ebe92e4cb2ed71ce23a0efa29e",
-      "download_count": 724,
+      "download_count": 725,
       "created_at": "2026-07-06T12:42:15Z",
       "updated_at": "2026-07-06T12:42:16Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.17.1/WasmEdge-plugin-wasi_nn-ggml-0.17.1-ubuntu20.04_x86_64.tar.gz"
@@ -1903,7 +1903,7 @@
       "state": "uploaded",
       "size": 136849,
       "digest": "sha256:6c1950edea8e493a99c7f1b5243bea7c5434fb1dd2933d88e27cb8a828d6f46b",
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2026-07-06T10:12:20Z",
       "updated_at": "2026-07-06T10:12:21Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.17.1/WasmEdge-plugin-wasi_nn-tensorflowlite-0.17.1-darwin_23-arm64.tar.gz"
@@ -3451,7 +3451,7 @@
       "state": "uploaded",
       "size": 142695,
       "digest": "sha256:78f45a3ca7497be8e1306e7a18db8bdc2ae9e7a5a4b6988244fc514d165a5995",
-      "download_count": 25,
+      "download_count": 26,
       "created_at": "2026-07-06T10:12:11Z",
       "updated_at": "2026-07-06T10:12:12Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.17.1/WasmEdge-plugin-wasmedge_tensorflow-0.17.1-manylinux_2_28_x86_64.tar.gz"
