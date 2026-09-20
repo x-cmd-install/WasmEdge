@@ -4,7 +4,7 @@
 
 WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
 
-![WasmEdge](https://repo.x-cmd.io/WasmEdge.svg?lang=zh)
+[![x-cmd/install — WasmEdge Code Quality Monitoring Repo Card](https://repo.x-cmd.io/WasmEdge.svg?lang=zh)](https://x-cmd.com/install/WasmEdge)
 
 ## 安装
 
@@ -14,7 +14,7 @@ x install WasmEdge
 
 ## 代码洞察
 
-合计: **253,099** 行代码（覆盖前 5 种语言、共 **822** 个文件）。
+合计: **253,105** 行代码（覆盖前 5 种语言、共 **822** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
@@ -32,28 +32,28 @@ x install WasmEdge
 
 ## 发布
 
-- **最新版本**: `0.17.2-rc.2` (2026-07-06)
-- **最近提交**: 2026-09-17
+- **最新版本**: `0.17.2-rc.3` (2026-07-06)
+- **最近提交**: 2026-09-18
 - **Release 含资产**: 106 个
 
 ## 流行度
 
-- **Star**: 10,803 · **Fork**: 1,172 · **开放 issue**: 1,772 · **贡献者**: 259
+- **Star**: 10,801 · **Fork**: 1,172 · **开放 issue**: 1,772 · **贡献者**: 260
 
 ## 累计统计
 
-- **发布数**: 126 · **已合并 PR**: 2698 · **开放 PR**: 52 · **已关闭 issue**: 1672 · **开放 issue**: 100 · **提交数**: 4820
+- **发布数**: 127 · **已合并 PR**: 2699 · **开放 PR**: 51 · **已关闭 issue**: 1674 · **开放 issue**: 98 · **提交数**: 4821
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 4 | 39 | 7 | 10 | 5 | 58 |
-| last60d | 2026-07-20 | 4 | 89 | 19 | 21 | 8 | 125 |
-| 90d | 2026-06-20 | 6 | 173 | 24 | 50 | 9 | 268 |
-| last180d | 2026-03-22 | 23 | 337 | 37 | 88 | 23 | 521 |
-| 360d | 2025-09-23 | 30 | 503 | 42 | 155 | 32 | 724 |
-| last720d | 2024-09-28 | 36 | 843 | 45 | 288 | 58 | 1175 |
+| 30d | 2026-08-21 | 5 | 38 | 6 | 7 | 5 | 59 |
+| last60d | 2026-07-22 | 5 | 90 | 18 | 21 | 8 | 126 |
+| 90d | 2026-06-22 | 7 | 170 | 22 | 50 | 9 | 269 |
+| last180d | 2026-03-24 | 24 | 332 | 36 | 90 | 21 | 522 |
+| 360d | 2025-09-25 | 31 | 502 | 41 | 157 | 30 | 725 |
+| last720d | 2024-09-30 | 37 | 839 | 44 | 288 | 56 | 1175 |
 
 ## Release 资产
 
@@ -175,4 +175,4 @@ WasmEdge 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:22:00Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:27:06Z._

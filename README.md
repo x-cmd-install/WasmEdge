@@ -4,7 +4,7 @@
 
 WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
 
-![WasmEdge](https://repo.x-cmd.io/WasmEdge.svg)
+[![x-cmd/install — WasmEdge Code Quality Monitoring Repo Card](https://repo.x-cmd.io/WasmEdge.svg)](https://x-cmd.com/install/WasmEdge)
 
 ## Install
 
@@ -14,7 +14,7 @@ x install WasmEdge
 
 ## Code insight
 
-Total: **253,099** lines of code across **822** files in the top 5 languages.
+Total: **253,105** lines of code across **822** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -32,28 +32,28 @@ Total: **253,099** lines of code across **822** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `0.17.2-rc.2` (2026-07-06)
-- **Last commit**: 2026-09-17
+- **Latest**: `0.17.2-rc.3` (2026-07-06)
+- **Last commit**: 2026-09-18
 - **Assets in release**: 106
 
 ## Popularity
 
-- **Stars**: 10,803 · **Forks**: 1,172 · **Open issues**: 1,772 · **Contributors**: 259
+- **Stars**: 10,801 · **Forks**: 1,172 · **Open issues**: 1,772 · **Contributors**: 260
 
 ## Totals (cumulative)
 
-- **Releases**: 126 · **Merged PRs**: 2698 · **Open PRs**: 52 · **Closed issues**: 1672 · **Open issues**: 100 · **Commits**: 4820
+- **Releases**: 127 · **Merged PRs**: 2699 · **Open PRs**: 51 · **Closed issues**: 1674 · **Open issues**: 98 · **Commits**: 4821
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 4 | 39 | 7 | 10 | 5 | 58 |
-| last60d | 2026-07-20 | 4 | 89 | 19 | 21 | 8 | 125 |
-| 90d | 2026-06-20 | 6 | 173 | 24 | 50 | 9 | 268 |
-| last180d | 2026-03-22 | 23 | 337 | 37 | 88 | 23 | 521 |
-| 360d | 2025-09-23 | 30 | 503 | 42 | 155 | 32 | 724 |
-| last720d | 2024-09-28 | 36 | 843 | 45 | 288 | 58 | 1175 |
+| 30d | 2026-08-21 | 5 | 38 | 6 | 7 | 5 | 59 |
+| last60d | 2026-07-22 | 5 | 90 | 18 | 21 | 8 | 126 |
+| 90d | 2026-06-22 | 7 | 170 | 22 | 50 | 9 | 269 |
+| last180d | 2026-03-24 | 24 | 332 | 36 | 90 | 21 | 522 |
+| 360d | 2025-09-25 | 31 | 502 | 41 | 157 | 30 | 725 |
+| last720d | 2024-09-30 | 37 | 839 | 44 | 288 | 56 | 1175 |
 
 ## Release assets
 
@@ -175,4 +175,4 @@ Install metadata for WasmEdge lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:21:59Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:27:05Z._
