@@ -32,135 +32,127 @@ x install WasmEdge
 
 ## 发布
 
-- **最新版本**: `0.17.2` (2026-10-02)
-- **最近提交**: 2026-10-02
-- **Release 含资产**: 102 个
+- **最新版本**: `0.18.0` (2026-10-05)
+- **最近提交**: 2026-10-05
+- **Release 含资产**: 94 个
 
 ## 流行度
 
-- **Star**: 10,812 · **Fork**: 1,179 · **开放 issue**: 1,780 · **贡献者**: 262
+- **Star**: 10,817 · **Fork**: 1,182 · **开放 issue**: 1,780 · **贡献者**: 262
 
 ## 累计统计
 
-- **发布数**: 132 · **已合并 PR**: 2731 · **开放 PR**: 57 · **已关闭 issue**: 1687 · **开放 issue**: 93 · **提交数**: 4854
+- **发布数**: 133 · **已合并 PR**: 2732 · **开放 PR**: 57 · **已关闭 issue**: 1687 · **开放 issue**: 93 · **提交数**: 4855
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 7 | 49 | 14 | 6 | 6 | 68 |
-| last60d | 2026-08-05 | 10 | 96 | 18 | 16 | 7 | 124 |
-| 90d | 2026-07-06 | 11 | 150 | 29 | 40 | 11 | 212 |
-| last180d | 2026-04-07 | 28 | 345 | 42 | 93 | 21 | 537 |
-| 360d | 2025-10-09 | 36 | 526 | 47 | 163 | 28 | 746 |
-| last720d | 2024-10-14 | 42 | 854 | 50 | 296 | 52 | 1187 |
+| 30d | 2026-09-05 | 8 | 49 | 14 | 6 | 6 | 52 |
+| last60d | 2026-08-06 | 11 | 97 | 18 | 15 | 7 | 116 |
+| 90d | 2026-07-07 | 11 | 148 | 29 | 40 | 11 | 185 |
+| last180d | 2026-04-08 | 29 | 345 | 42 | 92 | 21 | 527 |
+| 360d | 2025-10-10 | 37 | 527 | 47 | 163 | 28 | 738 |
+| last720d | 2024-10-15 | 43 | 852 | 50 | 296 | 52 | 1185 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [sbom.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/sbom.tar.gz) | 2.6 KiB | `native/unknown` |
-| [SHA256SUM](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/SHA256SUM) | 12.5 KiB | `other` |
-| [WasmEdge-0.17.2-alpine3.23_aarch64_static.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-0.17.2-alpine3.23_aarch64_static.tar.gz) | 99.1 MiB | `native/linux/arm64` |
-| [WasmEdge-0.17.2-alpine3.23_x86_64_static.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-0.17.2-alpine3.23_x86_64_static.tar.gz) | 101.3 MiB | `native/linux/x64` |
-| [WasmEdge-0.17.2-android_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-0.17.2-android_aarch64.tar.gz) | 1.0 MiB | `native/linux/arm64` |
-| [WasmEdge-0.17.2-darwin_arm64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-0.17.2-darwin_arm64.tar.gz) | 56.4 MiB | `native/darwin/arm64` |
-| [WasmEdge-0.17.2-darwin_arm64_static.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-0.17.2-darwin_arm64_static.tar.gz) | 91.3 MiB | `native/darwin/arm64` |
-| [WasmEdge-0.17.2-darwin_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-0.17.2-darwin_x86_64.tar.gz) | 33.4 MiB | `native/darwin/x64` |
-| [WasmEdge-0.17.2-debian12_aarch64_static.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-0.17.2-debian12_aarch64_static.tar.gz) | 80.8 MiB | `native/linux/arm64` |
-| [WasmEdge-0.17.2-debian12_x86_64_static.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-0.17.2-debian12_x86_64_static.tar.gz) | 83.0 MiB | `native/linux/x64` |
-| [WasmEdge-0.17.2-manylinux_2_28_aarch64.rpm](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-0.17.2-manylinux_2_28_aarch64.rpm) | 18.0 MiB | `native/linux/arm64` |
-| [WasmEdge-0.17.2-manylinux_2_28_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-0.17.2-manylinux_2_28_aarch64.tar.gz) | 24.1 MiB | `native/linux/arm64` |
-| [WasmEdge-0.17.2-manylinux_2_28_aarch64.tar.xz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-0.17.2-manylinux_2_28_aarch64.tar.xz) | 15.7 MiB | `native/linux/arm64` |
-| [WasmEdge-0.17.2-manylinux_2_28_x86_64.rpm](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-0.17.2-manylinux_2_28_x86_64.rpm) | 21.0 MiB | `native/linux/x64` |
-| [WasmEdge-0.17.2-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-0.17.2-manylinux_2_28_x86_64.tar.gz) | 26.0 MiB | `native/linux/x64` |
-| [WasmEdge-0.17.2-manylinux_2_28_x86_64.tar.xz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-0.17.2-manylinux_2_28_x86_64.tar.xz) | 18.5 MiB | `native/linux/x64` |
-| [WasmEdge-0.17.2-src.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-0.17.2-src.tar.gz) | 3.4 MiB | `native/unknown` |
-| [WasmEdge-0.17.2-ubuntu20.04_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-0.17.2-ubuntu20.04_aarch64.tar.gz) | 32.3 MiB | `native/linux/arm64` |
-| [WasmEdge-0.17.2-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-0.17.2-ubuntu20.04_x86_64.tar.gz) | 33.7 MiB | `native/linux/x64` |
-| [WasmEdge-0.17.2-windows-msvc.msi](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-0.17.2-windows-msvc.msi) | 24.5 MiB | `native/win/x64` |
-| [WasmEdge-0.17.2-windows-msvc.zip](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-0.17.2-windows-msvc.zip) | 24.5 MiB | `native/win/x64` |
-| [WasmEdge-0.17.2-windows.msi](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-0.17.2-windows.msi) | 23.0 MiB | `native/win/x64` |
-| [WasmEdge-0.17.2-windows.zip](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-0.17.2-windows.zip) | 23.1 MiB | `native/win/x64` |
-| [WasmEdge-plugin-wasi_crypto-0.17.2-darwin_24-arm64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_crypto-0.17.2-darwin_24-arm64.tar.gz) | 2.3 MiB | `native/darwin/arm64` |
-| [WasmEdge-plugin-wasi_crypto-0.17.2-darwin_24-x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_crypto-0.17.2-darwin_24-x86_64.tar.gz) | 2.0 MiB | `native/darwin/x64` |
-| [WasmEdge-plugin-wasi_crypto-0.17.2-manylinux_2_28_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_crypto-0.17.2-manylinux_2_28_aarch64.tar.gz) | 1.6 MiB | `native/linux/arm64` |
-| [WasmEdge-plugin-wasi_crypto-0.17.2-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_crypto-0.17.2-manylinux_2_28_x86_64.tar.gz) | 1.7 MiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasi_crypto-0.17.2-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_crypto-0.17.2-ubuntu20.04_x86_64.tar.gz) | 1.8 MiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasi_nn-bitnet-arm-tl1-0.17.2-manylinux_2_28_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-bitnet-arm-tl1-0.17.2-manylinux_2_28_aarch64.tar.gz) | 1.3 MiB | `native/linux/arm64` |
-| [WasmEdge-plugin-wasi_nn-bitnet-x86-tl2-0.17.2-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-bitnet-x86-tl2-0.17.2-manylinux_2_28_x86_64.tar.gz) | 1.5 MiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasi_nn-bitnet-x86-tl2-0.17.2-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-bitnet-x86-tl2-0.17.2-ubuntu20.04_x86_64.tar.gz) | 1.7 MiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasi_nn-ggml-0.17.2-darwin_arm64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-ggml-0.17.2-darwin_arm64.tar.gz) | 3.1 MiB | `native/darwin/arm64` |
-| [WasmEdge-plugin-wasi_nn-ggml-0.17.2-darwin_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-ggml-0.17.2-darwin_x86_64.tar.gz) | 3.2 MiB | `native/darwin/x64` |
-| [WasmEdge-plugin-wasi_nn-ggml-0.17.2-manylinux_2_28_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-ggml-0.17.2-manylinux_2_28_aarch64.tar.gz) | 3.4 MiB | `native/linux/arm64` |
-| [WasmEdge-plugin-wasi_nn-ggml-0.17.2-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-ggml-0.17.2-manylinux_2_28_x86_64.tar.gz) | 3.7 MiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasi_nn-ggml-0.17.2-ubuntu20.04_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-ggml-0.17.2-ubuntu20.04_aarch64.tar.gz) | 3.4 MiB | `native/linux/arm64` |
-| [WasmEdge-plugin-wasi_nn-ggml-0.17.2-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-ggml-0.17.2-ubuntu20.04_x86_64.tar.gz) | 3.6 MiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasi_nn-ggml-0.17.2-windows_x86_64.zip](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-ggml-0.17.2-windows_x86_64.zip) | 3.0 MiB | `native/win/x64` |
-| [WasmEdge-plugin-wasi_nn-ggml-cuda-0.17.2-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-ggml-cuda-0.17.2-ubuntu20.04_x86_64.tar.gz) | 323.1 MiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasi_nn-ggml-cuda-0.17.2-windows_x86_64.zip](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-ggml-cuda-0.17.2-windows_x86_64.zip) | 232.4 MiB | `native/win/x64` |
-| [WasmEdge-plugin-wasi_nn-ggml-cuda-11-0.17.2-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-ggml-cuda-11-0.17.2-ubuntu20.04_x86_64.tar.gz) | 188.2 MiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasi_nn-ggml-noavx-0.17.2-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-ggml-noavx-0.17.2-ubuntu20.04_x86_64.tar.gz) | 3.6 MiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasi_nn-ggml-noavx-0.17.2-windows_x86_64.zip](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-ggml-noavx-0.17.2-windows_x86_64.zip) | 2.9 MiB | `native/win/x64` |
-| [WasmEdge-plugin-wasi_nn-mlx-0.17.2-darwin_24-arm64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-mlx-0.17.2-darwin_24-arm64.tar.gz) | 27.7 MiB | `native/darwin/arm64` |
-| [WasmEdge-plugin-wasi_nn-openvino-0.17.2-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-openvino-0.17.2-ubuntu20.04_x86_64.tar.gz) | 164.4 KiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasi_nn-openvino-genai-0.17.2-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-openvino-genai-0.17.2-ubuntu20.04_x86_64.tar.gz) | 169.6 KiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasi_nn-piper-0.17.2-manylinux_2_28_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-piper-0.17.2-manylinux_2_28_aarch64.tar.gz) | 587.1 KiB | `native/linux/arm64` |
-| [WasmEdge-plugin-wasi_nn-piper-0.17.2-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-piper-0.17.2-manylinux_2_28_x86_64.tar.gz) | 649.7 KiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasi_nn-piper-0.17.2-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-piper-0.17.2-ubuntu20.04_x86_64.tar.gz) | 481.1 KiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasi_nn-pytorch-0.17.2-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-pytorch-0.17.2-manylinux_2_28_x86_64.tar.gz) | 216.0 KiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasi_nn-pytorch-0.17.2-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-pytorch-0.17.2-ubuntu20.04_x86_64.tar.gz) | 175.0 KiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasi_nn-tensorflowlite-0.17.2-darwin_24-arm64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-tensorflowlite-0.17.2-darwin_24-arm64.tar.gz) | 132.3 KiB | `native/darwin/arm64` |
-| [WasmEdge-plugin-wasi_nn-tensorflowlite-0.17.2-darwin_24-x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-tensorflowlite-0.17.2-darwin_24-x86_64.tar.gz) | 150.6 KiB | `native/darwin/x64` |
-| [WasmEdge-plugin-wasi_nn-tensorflowlite-0.17.2-manylinux_2_28_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-tensorflowlite-0.17.2-manylinux_2_28_aarch64.tar.gz) | 188.9 KiB | `native/linux/arm64` |
-| [WasmEdge-plugin-wasi_nn-tensorflowlite-0.17.2-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-tensorflowlite-0.17.2-manylinux_2_28_x86_64.tar.gz) | 196.4 KiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasi_nn-tensorflowlite-0.17.2-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-tensorflowlite-0.17.2-ubuntu20.04_x86_64.tar.gz) | 162.3 KiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasi_nn-whisper-0.17.2-darwin_24-arm64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-whisper-0.17.2-darwin_24-arm64.tar.gz) | 706.9 KiB | `native/darwin/arm64` |
-| [WasmEdge-plugin-wasi_nn-whisper-0.17.2-darwin_24-x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-whisper-0.17.2-darwin_24-x86_64.tar.gz) | 714.1 KiB | `native/darwin/x64` |
-| [WasmEdge-plugin-wasi_nn-whisper-0.17.2-manylinux_2_28_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-whisper-0.17.2-manylinux_2_28_aarch64.tar.gz) | 763.0 KiB | `native/linux/arm64` |
-| [WasmEdge-plugin-wasi_nn-whisper-0.17.2-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-whisper-0.17.2-manylinux_2_28_x86_64.tar.gz) | 864.7 KiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasi_nn-whisper-0.17.2-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasi_nn-whisper-0.17.2-ubuntu20.04_x86_64.tar.gz) | 1.0 MiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasmedge_ffmpeg-0.17.2-darwin_24-arm64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_ffmpeg-0.17.2-darwin_24-arm64.tar.gz) | 446.3 KiB | `native/darwin/arm64` |
-| [WasmEdge-plugin-wasmedge_ffmpeg-0.17.2-darwin_24-x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_ffmpeg-0.17.2-darwin_24-x86_64.tar.gz) | 489.4 KiB | `native/darwin/x64` |
-| [WasmEdge-plugin-wasmedge_ffmpeg-0.17.2-manylinux_2_28_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_ffmpeg-0.17.2-manylinux_2_28_aarch64.tar.gz) | 487.9 KiB | `native/linux/arm64` |
-| [WasmEdge-plugin-wasmedge_ffmpeg-0.17.2-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_ffmpeg-0.17.2-manylinux_2_28_x86_64.tar.gz) | 512.1 KiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasmedge_ffmpeg-0.17.2-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_ffmpeg-0.17.2-ubuntu20.04_x86_64.tar.gz) | 545.4 KiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasmedge_image-0.17.2-darwin_24-arm64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_image-0.17.2-darwin_24-arm64.tar.gz) | 171.0 KiB | `native/darwin/arm64` |
-| [WasmEdge-plugin-wasmedge_image-0.17.2-darwin_24-x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_image-0.17.2-darwin_24-x86_64.tar.gz) | 190.6 KiB | `native/darwin/x64` |
-| [WasmEdge-plugin-wasmedge_image-0.17.2-manylinux_2_28_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_image-0.17.2-manylinux_2_28_aarch64.tar.gz) | 236.0 KiB | `native/linux/arm64` |
-| [WasmEdge-plugin-wasmedge_image-0.17.2-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_image-0.17.2-manylinux_2_28_x86_64.tar.gz) | 262.6 KiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasmedge_image-0.17.2-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_image-0.17.2-ubuntu20.04_x86_64.tar.gz) | 203.4 KiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasmedge_llmc-0.17.2-darwin_24-arm64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_llmc-0.17.2-darwin_24-arm64.tar.gz) | 126.2 KiB | `native/darwin/arm64` |
-| [WasmEdge-plugin-wasmedge_llmc-0.17.2-darwin_24-x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_llmc-0.17.2-darwin_24-x86_64.tar.gz) | 152.0 KiB | `native/darwin/x64` |
-| [WasmEdge-plugin-wasmedge_llmc-0.17.2-manylinux_2_28_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_llmc-0.17.2-manylinux_2_28_aarch64.tar.gz) | 152.0 KiB | `native/linux/arm64` |
-| [WasmEdge-plugin-wasmedge_llmc-0.17.2-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_llmc-0.17.2-manylinux_2_28_x86_64.tar.gz) | 168.9 KiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasmedge_llmc-0.17.2-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_llmc-0.17.2-ubuntu20.04_x86_64.tar.gz) | 164.8 KiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasmedge_opencvmini-0.17.2-darwin_24-arm64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_opencvmini-0.17.2-darwin_24-arm64.tar.gz) | 101.9 KiB | `native/darwin/arm64` |
-| [WasmEdge-plugin-wasmedge_process-0.17.2-manylinux_2_28_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_process-0.17.2-manylinux_2_28_aarch64.tar.gz) | 133.8 KiB | `native/linux/arm64` |
-| [WasmEdge-plugin-wasmedge_process-0.17.2-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_process-0.17.2-manylinux_2_28_x86_64.tar.gz) | 138.2 KiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasmedge_process-0.17.2-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_process-0.17.2-ubuntu20.04_x86_64.tar.gz) | 128.1 KiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasmedge_stablediffusion-0.17.2-darwin_24-arm64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_stablediffusion-0.17.2-darwin_24-arm64.tar.gz) | 172.0 KiB | `native/darwin/arm64` |
-| [WasmEdge-plugin-wasmedge_stablediffusion-0.17.2-darwin_24-x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_stablediffusion-0.17.2-darwin_24-x86_64.tar.gz) | 194.6 KiB | `native/darwin/x64` |
-| [WasmEdge-plugin-wasmedge_stablediffusion-0.17.2-manylinux_2_28_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_stablediffusion-0.17.2-manylinux_2_28_aarch64.tar.gz) | 220.5 KiB | `native/linux/arm64` |
-| [WasmEdge-plugin-wasmedge_stablediffusion-0.17.2-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_stablediffusion-0.17.2-manylinux_2_28_x86_64.tar.gz) | 228.4 KiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasmedge_stablediffusion-0.17.2-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_stablediffusion-0.17.2-ubuntu20.04_x86_64.tar.gz) | 204.1 KiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasmedge_stablediffusion-cuda-11-0.17.2-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_stablediffusion-cuda-11-0.17.2-ubuntu20.04_x86_64.tar.gz) | 230.1 KiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasmedge_stablediffusion-cuda-12-0.17.2-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_stablediffusion-cuda-12-0.17.2-ubuntu20.04_x86_64.tar.gz) | 230.1 KiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasmedge_tensorflow-0.17.2-darwin_24-arm64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_tensorflow-0.17.2-darwin_24-arm64.tar.gz) | 108.2 KiB | `native/darwin/arm64` |
-| [WasmEdge-plugin-wasmedge_tensorflow-0.17.2-darwin_24-x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_tensorflow-0.17.2-darwin_24-x86_64.tar.gz) | 123.0 KiB | `native/darwin/x64` |
-| [WasmEdge-plugin-wasmedge_tensorflow-0.17.2-manylinux_2_28_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_tensorflow-0.17.2-manylinux_2_28_aarch64.tar.gz) | 135.5 KiB | `native/linux/arm64` |
-| [WasmEdge-plugin-wasmedge_tensorflow-0.17.2-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_tensorflow-0.17.2-manylinux_2_28_x86_64.tar.gz) | 139.4 KiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasmedge_tensorflow-0.17.2-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_tensorflow-0.17.2-ubuntu20.04_x86_64.tar.gz) | 132.0 KiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasmedge_tensorflowlite-0.17.2-darwin_24-arm64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_tensorflowlite-0.17.2-darwin_24-arm64.tar.gz) | 98.1 KiB | `native/darwin/arm64` |
-| [WasmEdge-plugin-wasmedge_tensorflowlite-0.17.2-darwin_24-x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_tensorflowlite-0.17.2-darwin_24-x86_64.tar.gz) | 111.9 KiB | `native/darwin/x64` |
-| [WasmEdge-plugin-wasmedge_tensorflowlite-0.17.2-manylinux_2_28_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_tensorflowlite-0.17.2-manylinux_2_28_aarch64.tar.gz) | 124.0 KiB | `native/linux/arm64` |
-| [WasmEdge-plugin-wasmedge_tensorflowlite-0.17.2-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_tensorflowlite-0.17.2-manylinux_2_28_x86_64.tar.gz) | 129.0 KiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasmedge_tensorflowlite-0.17.2-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_tensorflowlite-0.17.2-ubuntu20.04_x86_64.tar.gz) | 119.9 KiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasmedge_zlib-0.17.2-manylinux_2_28_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_zlib-0.17.2-manylinux_2_28_aarch64.tar.gz) | 176.6 KiB | `native/linux/arm64` |
-| [WasmEdge-plugin-wasmedge_zlib-0.17.2-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_zlib-0.17.2-manylinux_2_28_x86_64.tar.gz) | 182.7 KiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasmedge_zlib-0.17.2-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasmedge_zlib-0.17.2-ubuntu20.04_x86_64.tar.gz) | 182.6 KiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasm_bpf-0.17.2-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasm_bpf-0.17.2-manylinux_2_28_x86_64.tar.gz) | 277.6 KiB | `native/linux/x64` |
-| [WasmEdge-plugin-wasm_bpf-0.17.2-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.17.2/WasmEdge-plugin-wasm_bpf-0.17.2-ubuntu20.04_x86_64.tar.gz) | 272.9 KiB | `native/linux/x64` |
+| [sbom.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/sbom.tar.gz) | 2.6 KiB | `native/unknown` |
+| [SHA256SUM](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/SHA256SUM) | 11.5 KiB | `other` |
+| [WasmEdge-0.18.0-alpine3.23_aarch64_static.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-0.18.0-alpine3.23_aarch64_static.tar.gz) | 99.9 MiB | `native/linux/arm64` |
+| [WasmEdge-0.18.0-alpine3.23_x86_64_static.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-0.18.0-alpine3.23_x86_64_static.tar.gz) | 102.0 MiB | `native/linux/x64` |
+| [WasmEdge-0.18.0-android_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-0.18.0-android_aarch64.tar.gz) | 1.2 MiB | `native/linux/arm64` |
+| [WasmEdge-0.18.0-darwin_arm64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-0.18.0-darwin_arm64.tar.gz) | 56.6 MiB | `native/darwin/arm64` |
+| [WasmEdge-0.18.0-darwin_arm64_static.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-0.18.0-darwin_arm64_static.tar.gz) | 92.0 MiB | `native/darwin/arm64` |
+| [WasmEdge-0.18.0-darwin_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-0.18.0-darwin_x86_64.tar.gz) | 33.7 MiB | `native/darwin/x64` |
+| [WasmEdge-0.18.0-debian12_aarch64_static.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-0.18.0-debian12_aarch64_static.tar.gz) | 81.6 MiB | `native/linux/arm64` |
+| [WasmEdge-0.18.0-debian12_x86_64_static.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-0.18.0-debian12_x86_64_static.tar.gz) | 83.8 MiB | `native/linux/x64` |
+| [WasmEdge-0.18.0-manylinux_2_28_aarch64.rpm](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-0.18.0-manylinux_2_28_aarch64.rpm) | 18.1 MiB | `native/linux/arm64` |
+| [WasmEdge-0.18.0-manylinux_2_28_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-0.18.0-manylinux_2_28_aarch64.tar.gz) | 24.2 MiB | `native/linux/arm64` |
+| [WasmEdge-0.18.0-manylinux_2_28_aarch64.tar.xz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-0.18.0-manylinux_2_28_aarch64.tar.xz) | 15.8 MiB | `native/linux/arm64` |
+| [WasmEdge-0.18.0-manylinux_2_28_x86_64.rpm](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-0.18.0-manylinux_2_28_x86_64.rpm) | 21.1 MiB | `native/linux/x64` |
+| [WasmEdge-0.18.0-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-0.18.0-manylinux_2_28_x86_64.tar.gz) | 26.1 MiB | `native/linux/x64` |
+| [WasmEdge-0.18.0-manylinux_2_28_x86_64.tar.xz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-0.18.0-manylinux_2_28_x86_64.tar.xz) | 18.6 MiB | `native/linux/x64` |
+| [WasmEdge-0.18.0-src.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-0.18.0-src.tar.gz) | 3.8 MiB | `native/unknown` |
+| [WasmEdge-0.18.0-ubuntu20.04_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-0.18.0-ubuntu20.04_aarch64.tar.gz) | 32.5 MiB | `native/linux/arm64` |
+| [WasmEdge-0.18.0-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-0.18.0-ubuntu20.04_x86_64.tar.gz) | 33.9 MiB | `native/linux/x64` |
+| [WasmEdge-0.18.0-windows-msvc.msi](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-0.18.0-windows-msvc.msi) | 25.0 MiB | `native/win/x64` |
+| [WasmEdge-0.18.0-windows-msvc.zip](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-0.18.0-windows-msvc.zip) | 25.0 MiB | `native/win/x64` |
+| [WasmEdge-0.18.0-windows.msi](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-0.18.0-windows.msi) | 23.4 MiB | `native/win/x64` |
+| [WasmEdge-0.18.0-windows.zip](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-0.18.0-windows.zip) | 23.5 MiB | `native/win/x64` |
+| [WasmEdge-plugin-wasi_crypto-0.18.0-darwin_24-arm64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_crypto-0.18.0-darwin_24-arm64.tar.gz) | 2.3 MiB | `native/darwin/arm64` |
+| [WasmEdge-plugin-wasi_crypto-0.18.0-darwin_24-x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_crypto-0.18.0-darwin_24-x86_64.tar.gz) | 2.0 MiB | `native/darwin/x64` |
+| [WasmEdge-plugin-wasi_crypto-0.18.0-manylinux_2_28_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_crypto-0.18.0-manylinux_2_28_aarch64.tar.gz) | 1.6 MiB | `native/linux/arm64` |
+| [WasmEdge-plugin-wasi_crypto-0.18.0-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_crypto-0.18.0-manylinux_2_28_x86_64.tar.gz) | 1.7 MiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasi_crypto-0.18.0-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_crypto-0.18.0-ubuntu20.04_x86_64.tar.gz) | 1.8 MiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasi_nn-bitnet-arm-tl1-0.18.0-manylinux_2_28_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-bitnet-arm-tl1-0.18.0-manylinux_2_28_aarch64.tar.gz) | 1.3 MiB | `native/linux/arm64` |
+| [WasmEdge-plugin-wasi_nn-bitnet-x86-tl2-0.18.0-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-bitnet-x86-tl2-0.18.0-manylinux_2_28_x86_64.tar.gz) | 1.4 MiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasi_nn-bitnet-x86-tl2-0.18.0-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-bitnet-x86-tl2-0.18.0-ubuntu20.04_x86_64.tar.gz) | 1.6 MiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasi_nn-ggml-0.18.0-darwin_arm64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-ggml-0.18.0-darwin_arm64.tar.gz) | 3.1 MiB | `native/darwin/arm64` |
+| [WasmEdge-plugin-wasi_nn-ggml-0.18.0-darwin_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-ggml-0.18.0-darwin_x86_64.tar.gz) | 3.2 MiB | `native/darwin/x64` |
+| [WasmEdge-plugin-wasi_nn-ggml-0.18.0-manylinux_2_28_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-ggml-0.18.0-manylinux_2_28_aarch64.tar.gz) | 3.4 MiB | `native/linux/arm64` |
+| [WasmEdge-plugin-wasi_nn-ggml-0.18.0-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-ggml-0.18.0-manylinux_2_28_x86_64.tar.gz) | 3.8 MiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasi_nn-ggml-0.18.0-ubuntu20.04_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-ggml-0.18.0-ubuntu20.04_aarch64.tar.gz) | 3.3 MiB | `native/linux/arm64` |
+| [WasmEdge-plugin-wasi_nn-ggml-0.18.0-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-ggml-0.18.0-ubuntu20.04_x86_64.tar.gz) | 3.5 MiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasi_nn-ggml-0.18.0-windows_x86_64.zip](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-ggml-0.18.0-windows_x86_64.zip) | 3.2 MiB | `native/win/x64` |
+| [WasmEdge-plugin-wasi_nn-ggml-cuda-0.18.0-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-ggml-cuda-0.18.0-ubuntu20.04_x86_64.tar.gz) | 322.9 MiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasi_nn-ggml-cuda-0.18.0-windows_x86_64.zip](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-ggml-cuda-0.18.0-windows_x86_64.zip) | 232.4 MiB | `native/win/x64` |
+| [WasmEdge-plugin-wasi_nn-ggml-cuda-11-0.18.0-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-ggml-cuda-11-0.18.0-ubuntu20.04_x86_64.tar.gz) | 189.0 MiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasi_nn-ggml-noavx-0.18.0-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-ggml-noavx-0.18.0-ubuntu20.04_x86_64.tar.gz) | 3.5 MiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasi_nn-ggml-noavx-0.18.0-windows_x86_64.zip](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-ggml-noavx-0.18.0-windows_x86_64.zip) | 3.1 MiB | `native/win/x64` |
+| [WasmEdge-plugin-wasi_nn-mlx-0.18.0-darwin_24-arm64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-mlx-0.18.0-darwin_24-arm64.tar.gz) | 27.7 MiB | `native/darwin/arm64` |
+| [WasmEdge-plugin-wasi_nn-openvino-0.18.0-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-openvino-0.18.0-ubuntu20.04_x86_64.tar.gz) | 171.9 KiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasi_nn-openvino-genai-0.18.0-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-openvino-genai-0.18.0-ubuntu20.04_x86_64.tar.gz) | 175.5 KiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasi_nn-piper-0.18.0-manylinux_2_28_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-piper-0.18.0-manylinux_2_28_aarch64.tar.gz) | 524.2 KiB | `native/linux/arm64` |
+| [WasmEdge-plugin-wasi_nn-piper-0.18.0-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-piper-0.18.0-manylinux_2_28_x86_64.tar.gz) | 589.7 KiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasi_nn-piper-0.18.0-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-piper-0.18.0-ubuntu20.04_x86_64.tar.gz) | 498.2 KiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasi_nn-pytorch-0.18.0-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-pytorch-0.18.0-manylinux_2_28_x86_64.tar.gz) | 320.2 KiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasi_nn-pytorch-0.18.0-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-pytorch-0.18.0-ubuntu20.04_x86_64.tar.gz) | 184.1 KiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasi_nn-tensorflowlite-0.18.0-darwin_24-arm64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-tensorflowlite-0.18.0-darwin_24-arm64.tar.gz) | 136.3 KiB | `native/darwin/arm64` |
+| [WasmEdge-plugin-wasi_nn-tensorflowlite-0.18.0-darwin_24-x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-tensorflowlite-0.18.0-darwin_24-x86_64.tar.gz) | 154.8 KiB | `native/darwin/x64` |
+| [WasmEdge-plugin-wasi_nn-tensorflowlite-0.18.0-manylinux_2_28_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-tensorflowlite-0.18.0-manylinux_2_28_aarch64.tar.gz) | 193.4 KiB | `native/linux/arm64` |
+| [WasmEdge-plugin-wasi_nn-tensorflowlite-0.18.0-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-tensorflowlite-0.18.0-manylinux_2_28_x86_64.tar.gz) | 203.8 KiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasi_nn-tensorflowlite-0.18.0-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-tensorflowlite-0.18.0-ubuntu20.04_x86_64.tar.gz) | 168.1 KiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasi_nn-whisper-0.18.0-darwin_24-arm64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-whisper-0.18.0-darwin_24-arm64.tar.gz) | 709.4 KiB | `native/darwin/arm64` |
+| [WasmEdge-plugin-wasi_nn-whisper-0.18.0-darwin_24-x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-whisper-0.18.0-darwin_24-x86_64.tar.gz) | 716.5 KiB | `native/darwin/x64` |
+| [WasmEdge-plugin-wasi_nn-whisper-0.18.0-manylinux_2_28_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-whisper-0.18.0-manylinux_2_28_aarch64.tar.gz) | 761.5 KiB | `native/linux/arm64` |
+| [WasmEdge-plugin-wasi_nn-whisper-0.18.0-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-whisper-0.18.0-manylinux_2_28_x86_64.tar.gz) | 868.1 KiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasi_nn-whisper-0.18.0-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasi_nn-whisper-0.18.0-ubuntu20.04_x86_64.tar.gz) | 1.1 MiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasmedge_ffmpeg-0.18.0-darwin_24-arm64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_ffmpeg-0.18.0-darwin_24-arm64.tar.gz) | 453.3 KiB | `native/darwin/arm64` |
+| [WasmEdge-plugin-wasmedge_ffmpeg-0.18.0-darwin_24-x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_ffmpeg-0.18.0-darwin_24-x86_64.tar.gz) | 493.0 KiB | `native/darwin/x64` |
+| [WasmEdge-plugin-wasmedge_ffmpeg-0.18.0-manylinux_2_28_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_ffmpeg-0.18.0-manylinux_2_28_aarch64.tar.gz) | 491.5 KiB | `native/linux/arm64` |
+| [WasmEdge-plugin-wasmedge_ffmpeg-0.18.0-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_ffmpeg-0.18.0-manylinux_2_28_x86_64.tar.gz) | 515.2 KiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasmedge_ffmpeg-0.18.0-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_ffmpeg-0.18.0-ubuntu20.04_x86_64.tar.gz) | 547.5 KiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasmedge_image-0.18.0-darwin_24-arm64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_image-0.18.0-darwin_24-arm64.tar.gz) | 176.9 KiB | `native/darwin/arm64` |
+| [WasmEdge-plugin-wasmedge_image-0.18.0-darwin_24-x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_image-0.18.0-darwin_24-x86_64.tar.gz) | 196.7 KiB | `native/darwin/x64` |
+| [WasmEdge-plugin-wasmedge_image-0.18.0-manylinux_2_28_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_image-0.18.0-manylinux_2_28_aarch64.tar.gz) | 243.0 KiB | `native/linux/arm64` |
+| [WasmEdge-plugin-wasmedge_image-0.18.0-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_image-0.18.0-manylinux_2_28_x86_64.tar.gz) | 267.8 KiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasmedge_image-0.18.0-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_image-0.18.0-ubuntu20.04_x86_64.tar.gz) | 208.1 KiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasmedge_opencvmini-0.18.0-darwin_24-arm64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_opencvmini-0.18.0-darwin_24-arm64.tar.gz) | 104.4 KiB | `native/darwin/arm64` |
+| [WasmEdge-plugin-wasmedge_stablediffusion-0.18.0-darwin_24-arm64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_stablediffusion-0.18.0-darwin_24-arm64.tar.gz) | 176.8 KiB | `native/darwin/arm64` |
+| [WasmEdge-plugin-wasmedge_stablediffusion-0.18.0-darwin_24-x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_stablediffusion-0.18.0-darwin_24-x86_64.tar.gz) | 198.8 KiB | `native/darwin/x64` |
+| [WasmEdge-plugin-wasmedge_stablediffusion-0.18.0-manylinux_2_28_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_stablediffusion-0.18.0-manylinux_2_28_aarch64.tar.gz) | 222.7 KiB | `native/linux/arm64` |
+| [WasmEdge-plugin-wasmedge_stablediffusion-0.18.0-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_stablediffusion-0.18.0-manylinux_2_28_x86_64.tar.gz) | 232.0 KiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasmedge_stablediffusion-0.18.0-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_stablediffusion-0.18.0-ubuntu20.04_x86_64.tar.gz) | 206.4 KiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasmedge_stablediffusion-cuda-11-0.18.0-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_stablediffusion-cuda-11-0.18.0-ubuntu20.04_x86_64.tar.gz) | 232.5 KiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasmedge_stablediffusion-cuda-12-0.18.0-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_stablediffusion-cuda-12-0.18.0-ubuntu20.04_x86_64.tar.gz) | 232.5 KiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasmedge_tensorflow-0.18.0-darwin_24-arm64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_tensorflow-0.18.0-darwin_24-arm64.tar.gz) | 113.0 KiB | `native/darwin/arm64` |
+| [WasmEdge-plugin-wasmedge_tensorflow-0.18.0-darwin_24-x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_tensorflow-0.18.0-darwin_24-x86_64.tar.gz) | 127.1 KiB | `native/darwin/x64` |
+| [WasmEdge-plugin-wasmedge_tensorflow-0.18.0-manylinux_2_28_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_tensorflow-0.18.0-manylinux_2_28_aarch64.tar.gz) | 140.3 KiB | `native/linux/arm64` |
+| [WasmEdge-plugin-wasmedge_tensorflow-0.18.0-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_tensorflow-0.18.0-manylinux_2_28_x86_64.tar.gz) | 144.9 KiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasmedge_tensorflow-0.18.0-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_tensorflow-0.18.0-ubuntu20.04_x86_64.tar.gz) | 135.0 KiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasmedge_tensorflowlite-0.18.0-darwin_24-arm64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_tensorflowlite-0.18.0-darwin_24-arm64.tar.gz) | 103.2 KiB | `native/darwin/arm64` |
+| [WasmEdge-plugin-wasmedge_tensorflowlite-0.18.0-darwin_24-x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_tensorflowlite-0.18.0-darwin_24-x86_64.tar.gz) | 115.4 KiB | `native/darwin/x64` |
+| [WasmEdge-plugin-wasmedge_tensorflowlite-0.18.0-manylinux_2_28_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_tensorflowlite-0.18.0-manylinux_2_28_aarch64.tar.gz) | 129.1 KiB | `native/linux/arm64` |
+| [WasmEdge-plugin-wasmedge_tensorflowlite-0.18.0-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_tensorflowlite-0.18.0-manylinux_2_28_x86_64.tar.gz) | 132.7 KiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasmedge_tensorflowlite-0.18.0-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_tensorflowlite-0.18.0-ubuntu20.04_x86_64.tar.gz) | 123.4 KiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasmedge_zlib-0.18.0-manylinux_2_28_aarch64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_zlib-0.18.0-manylinux_2_28_aarch64.tar.gz) | 202.6 KiB | `native/linux/arm64` |
+| [WasmEdge-plugin-wasmedge_zlib-0.18.0-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_zlib-0.18.0-manylinux_2_28_x86_64.tar.gz) | 209.4 KiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasmedge_zlib-0.18.0-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasmedge_zlib-0.18.0-ubuntu20.04_x86_64.tar.gz) | 217.8 KiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasm_bpf-0.18.0-manylinux_2_28_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasm_bpf-0.18.0-manylinux_2_28_x86_64.tar.gz) | 285.4 KiB | `native/linux/x64` |
+| [WasmEdge-plugin-wasm_bpf-0.18.0-ubuntu20.04_x86_64.tar.gz](https://github.com/WasmEdge/WasmEdge/releases/download/0.18.0/WasmEdge-plugin-wasm_bpf-0.18.0-ubuntu20.04_x86_64.tar.gz) | 278.3 KiB | `native/linux/x64` |
 
 ## 改进这些数据
 
@@ -171,4 +163,4 @@ WasmEdge 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261004.yml` · 2026-10-04T06:57:44Z._
+_数据快照: `data/card/261005.yml` · 2026-10-05T06:56:07Z._
