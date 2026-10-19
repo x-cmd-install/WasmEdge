@@ -38,22 +38,22 @@ Total: **256,308** lines of code across **822** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 10,830 · **Forks**: 1,188 · **Open issues**: 1,789 · **Contributors**: 262
+- **Stars**: 10,832 · **Forks**: 1,190 · **Open issues**: 1,790 · **Contributors**: 262
 
 ## Totals (cumulative)
 
-- **Releases**: 133 · **Merged PRs**: 2742 · **Open PRs**: 65 · **Closed issues**: 1691 · **Open issues**: 98 · **Commits**: 4889
+- **Releases**: 133 · **Merged PRs**: 2742 · **Open PRs**: 69 · **Closed issues**: 1691 · **Open issues**: 99 · **Commits**: 4889
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 7 | 36 | 25 | 6 | 10 | 68 |
-| last60d | 2026-08-19 | 11 | 80 | 26 | 19 | 12 | 129 |
-| 90d | 2026-07-20 | 11 | 130 | 37 | 32 | 15 | 198 |
-| last180d | 2026-04-21 | 26 | 325 | 50 | 92 | 25 | 538 |
-| 360d | 2025-10-23 | 37 | 531 | 55 | 167 | 33 | 766 |
-| last720d | 2024-10-28 | 43 | 849 | 58 | 296 | 55 | 1164 |
+| 30d | 2026-09-19 | 6 | 36 | 29 | 6 | 11 | 49 |
+| last60d | 2026-08-20 | 11 | 80 | 30 | 17 | 13 | 115 |
+| 90d | 2026-07-21 | 11 | 130 | 41 | 32 | 16 | 175 |
+| last180d | 2026-04-22 | 25 | 325 | 54 | 92 | 26 | 527 |
+| 360d | 2025-10-24 | 37 | 531 | 59 | 167 | 34 | 762 |
+| last720d | 2024-10-29 | 43 | 849 | 62 | 296 | 56 | 1159 |
 
 ## Release assets
 
@@ -163,4 +163,4 @@ Install metadata for WasmEdge lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T05:39:34Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T05:58:04Z._
