@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 11770,
       "digest": "sha256:d347a03f9247fe29e020cea31dd58a64cb034ef6820de946b1bc0328f07719a1",
-      "download_count": 78,
+      "download_count": 80,
       "created_at": "2026-10-22T21:05:39Z",
       "updated_at": "2026-10-22T21:05:40Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.18.1/SHA256SUM"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 106977635,
       "digest": "sha256:a1ba3c6b5db7d1af54c38a828fc653674d79ba5bf3e83c620ac6ed83002a48f5",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-22T18:39:04Z",
       "updated_at": "2026-10-22T18:39:12Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.18.1/WasmEdge-0.18.1-alpine3.23_x86_64_static.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 96436963,
       "digest": "sha256:9af3ac72eb261749fb9c7a177a3edcbdd210c795b0a2b9a583f8b03439c461a6",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-22T18:33:29Z",
       "updated_at": "2026-10-22T18:33:35Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.18.1/WasmEdge-0.18.1-darwin_arm64_static.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 35294997,
       "digest": "sha256:c0dff63d5171a4fa24732761348b07972d82cc07dbabb67ca6ef2c8e65aa3689",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-10-22T18:37:49Z",
       "updated_at": "2026-10-22T18:37:51Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.18.1/WasmEdge-0.18.1-darwin_x86_64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 27389785,
       "digest": "sha256:ec97ccfc172a1fbb2116e9dd00ca12d41f9f9ad3d7b1c89a63b8477703fa67c9",
-      "download_count": 44,
+      "download_count": 50,
       "created_at": "2026-10-22T18:30:38Z",
       "updated_at": "2026-10-22T18:30:40Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.18.1/WasmEdge-0.18.1-manylinux_2_28_x86_64.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 19481584,
       "digest": "sha256:f1883eebd023bec656125659142bd4edfe930d67faf79eeb17c6692dc2a632fd",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-10-22T18:30:41Z",
       "updated_at": "2026-10-22T18:30:43Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.18.1/WasmEdge-0.18.1-manylinux_2_28_x86_64.tar.xz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 3929577,
       "digest": "sha256:589031c828628fbae8576e9d6ef497ac9888bca964dacacaa79ad9c82f9538bc",
-      "download_count": 46,
+      "download_count": 47,
       "created_at": "2026-10-22T18:24:52Z",
       "updated_at": "2026-10-22T18:24:53Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.18.1/WasmEdge-0.18.1-src.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 34110314,
       "digest": "sha256:e0322c55df7358caab59271d2a49d907f4775fdfd583fbbb2848b38ceeaa4868",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-10-22T18:27:35Z",
       "updated_at": "2026-10-22T18:27:36Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.18.1/WasmEdge-0.18.1-ubuntu20.04_aarch64.tar.gz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 26182285,
       "digest": "sha256:1e298a142a00a079ca2f3e0f036a8ddf7eafef92c12c992accf74eda619fd983",
-      "download_count": 24,
+      "download_count": 27,
       "created_at": "2026-10-22T18:30:45Z",
       "updated_at": "2026-10-22T18:30:47Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.18.1/WasmEdge-0.18.1-windows-msvc.zip"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 24580096,
       "digest": "sha256:da051ffba12f1b3cc1e6db7539e6fe960aa4bb0d85d229eac2c65e88733c62db",
-      "download_count": 64,
+      "download_count": 75,
       "created_at": "2026-10-22T18:31:25Z",
       "updated_at": "2026-10-22T18:31:26Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.18.1/WasmEdge-0.18.1-windows.msi"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 24606452,
       "digest": "sha256:ed92bc3f7223a2824b01c55c8f75ce0a20f0aaca3f644fff367f5491c80b76df",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-10-22T18:31:22Z",
       "updated_at": "2026-10-22T18:31:23Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.18.1/WasmEdge-0.18.1-windows.zip"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 1793910,
       "digest": "sha256:eb3246738a4d8cb0e52bc792a7ade9214c7fe8b6fb23fdd7ff1d264609687007",
-      "download_count": 14,
+      "download_count": 16,
       "created_at": "2026-10-22T18:31:37Z",
       "updated_at": "2026-10-22T18:31:37Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.18.1/WasmEdge-plugin-wasi_crypto-0.18.1-manylinux_2_28_x86_64.tar.gz"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 3430417,
       "digest": "sha256:a51794774db61d6aa7abeaff33271535ad440ea0e68d455cdfa14335ff4eeebc",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-10-22T20:32:34Z",
       "updated_at": "2026-10-22T20:32:35Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.18.1/WasmEdge-plugin-wasi_nn-ggml-0.18.1-ubuntu20.04_aarch64.tar.gz"
@@ -1759,7 +1759,7 @@
       "state": "uploaded",
       "size": 607615,
       "digest": "sha256:c0f93cc78113fe7cf3a5c5a1f2ce06a95293edc44dfe447bde000dbfafa92562",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-22T18:29:58Z",
       "updated_at": "2026-10-22T18:29:58Z",
       "browser_download_url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.18.1/WasmEdge-plugin-wasi_nn-piper-0.18.1-manylinux_2_28_x86_64.tar.gz"
