@@ -33,27 +33,27 @@ Total: **257,104** lines of code across **821** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.18.1` (2026-10-22)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-11-06
 - **Assets in release**: 94
 
 ## Popularity
 
-- **Stars**: 10,856 · **Forks**: 1,206 · **Open issues**: 1,815 · **Contributors**: 266
+- **Stars**: 10,856 · **Forks**: 1,206 · **Open issues**: 1,815 · **Contributors**: 267
 
 ## Totals (cumulative)
 
-- **Releases**: 135 · **Merged PRs**: 2771 · **Open PRs**: 68 · **Closed issues**: 1705 · **Open issues**: 110 · **Commits**: 4922
+- **Releases**: 135 · **Merged PRs**: 2773 · **Open PRs**: 61 · **Closed issues**: 1708 · **Open issues**: 107 · **Commits**: 4924
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 2 | 30 | 28 | 12 | 22 | 64 |
-| last60d | 2026-09-06 | 10 | 86 | 33 | 23 | 25 | 120 |
-| 90d | 2026-08-07 | 13 | 133 | 37 | 32 | 26 | 188 |
-| last180d | 2026-05-09 | 22 | 333 | 52 | 103 | 31 | 542 |
-| 360d | 2025-11-10 | 39 | 552 | 58 | 177 | 45 | 783 |
-| last720d | 2024-11-15 | 45 | 869 | 60 | 305 | 66 | 1180 |
+| 30d | 2026-10-07 | 2 | 31 | 24 | 14 | 19 | 66 |
+| last60d | 2026-09-07 | 10 | 82 | 29 | 26 | 21 | 122 |
+| 90d | 2026-08-08 | 13 | 131 | 33 | 35 | 23 | 190 |
+| last180d | 2026-05-10 | 22 | 334 | 45 | 106 | 28 | 544 |
+| 360d | 2025-11-11 | 39 | 552 | 51 | 180 | 42 | 785 |
+| last720d | 2024-11-16 | 45 | 869 | 53 | 307 | 63 | 1181 |
 
 ## Release assets
 
@@ -163,4 +163,4 @@ Install metadata for WasmEdge lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T08:02:16Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T08:00:36Z._
