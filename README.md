@@ -14,11 +14,11 @@ x install WasmEdge
 
 ## Code insight
 
-Total: **257,279** lines of code across **821** files in the top 5 languages.
+Total: **257,351** lines of code across **821** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 147,591 | 12,956 | 18,357 | 425 |
+| Cpp | 147,663 | 12,963 | 18,366 | 425 |
 | CHeader | 44,622 | 10,281 | 7,757 | 362 |
 | CppHeader | 20,915 | 2,369 | 3,535 | 22 |
 | AssemblyGAS | 17,505 | 0 | 45 | 8 |
@@ -38,22 +38,22 @@ Total: **257,279** lines of code across **821** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 10,855 · **Forks**: 1,206 · **Open issues**: 1,818 · **Contributors**: 268
+- **Stars**: 10,855 · **Forks**: 1,205 · **Open issues**: 1,819 · **Contributors**: 268
 
 ## Totals (cumulative)
 
-- **Releases**: 135 · **Merged PRs**: 2776 · **Open PRs**: 60 · **Closed issues**: 1710 · **Open issues**: 108 · **Commits**: 4927
+- **Releases**: 135 · **Merged PRs**: 2777 · **Open PRs**: 61 · **Closed issues**: 1710 · **Open issues**: 109 · **Commits**: 4928
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 2 | 34 | 23 | 16 | 19 | 69 |
-| last60d | 2026-09-08 | 10 | 82 | 28 | 27 | 22 | 125 |
-| 90d | 2026-08-09 | 13 | 133 | 31 | 37 | 24 | 193 |
-| last180d | 2026-05-11 | 22 | 332 | 44 | 108 | 29 | 547 |
-| 360d | 2025-11-12 | 39 | 555 | 50 | 182 | 43 | 788 |
-| last720d | 2024-11-17 | 45 | 872 | 52 | 309 | 64 | 1184 |
+| 30d | 2026-10-09 | 2 | 34 | 24 | 15 | 20 | 39 |
+| last60d | 2026-09-09 | 10 | 83 | 29 | 26 | 23 | 116 |
+| 90d | 2026-08-10 | 13 | 128 | 31 | 37 | 25 | 175 |
+| last180d | 2026-05-12 | 22 | 332 | 45 | 108 | 30 | 529 |
+| 360d | 2025-11-13 | 39 | 555 | 51 | 182 | 44 | 783 |
+| last720d | 2024-11-18 | 45 | 872 | 53 | 309 | 65 | 1185 |
 
 ## Release assets
 
@@ -163,4 +163,4 @@ Install metadata for WasmEdge lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T07:20:11Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T07:25:00Z._
