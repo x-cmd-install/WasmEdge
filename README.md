@@ -14,12 +14,12 @@ x install WasmEdge
 
 ## Code insight
 
-Total: **278,875** lines of code across **843** files in the top 5 languages.
+Total: **278,686** lines of code across **842** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 165,019 | 13,729 | 19,898 | 430 |
-| CHeader | 45,528 | 10,524 | 7,909 | 365 |
+| Cpp | 164,757 | 13,774 | 19,780 | 428 |
+| CHeader | 45,601 | 10,563 | 7,915 | 366 |
 | CppHeader | 21,570 | 2,626 | 3,645 | 36 |
 | AssemblyGAS | 19,742 | 0 | 47 | 8 |
 | Assembly | 8,836 | 6 | 58 | 4 |
@@ -33,27 +33,27 @@ Total: **278,875** lines of code across **843** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.18.1` (2026-10-22)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-25
 - **Assets in release**: 94
 
 ## Popularity
 
-- **Stars**: 10,865 · **Forks**: 1,222 · **Open issues**: 1,838 · **Contributors**: 277
+- **Stars**: 10,867 · **Forks**: 1,222 · **Open issues**: 1,838 · **Contributors**: 277
 
 ## Totals (cumulative)
 
-- **Releases**: 135 · **Merged PRs**: 2845 · **Open PRs**: 61 · **Closed issues**: 1732 · **Open issues**: 106 · **Commits**: 5051
+- **Releases**: 135 · **Merged PRs**: 2847 · **Open PRs**: 58 · **Closed issues**: 1733 · **Open issues**: 105 · **Commits**: 5060
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 75 | 23 | 16 | 16 | 107 |
-| last60d | 2026-09-25 | 8 | 121 | 33 | 42 | 22 | 198 |
-| 90d | 2026-08-26 | 13 | 172 | 35 | 50 | 23 | 261 |
-| last180d | 2026-05-28 | 19 | 380 | 45 | 124 | 26 | 613 |
-| 360d | 2025-11-29 | 39 | 618 | 51 | 201 | 41 | 901 |
-| last720d | 2024-12-04 | 45 | 924 | 53 | 324 | 62 | 1291 |
+| 30d | 2026-10-26 | 0 | 68 | 22 | 16 | 16 | 116 |
+| last60d | 2026-09-26 | 8 | 121 | 32 | 42 | 22 | 207 |
+| 90d | 2026-08-27 | 13 | 172 | 33 | 51 | 22 | 270 |
+| last180d | 2026-05-29 | 19 | 382 | 43 | 125 | 25 | 622 |
+| 360d | 2025-11-30 | 39 | 620 | 48 | 202 | 40 | 910 |
+| last720d | 2024-12-05 | 45 | 925 | 50 | 325 | 61 | 1295 |
 
 ## Release assets
 
@@ -163,4 +163,4 @@ Install metadata for WasmEdge lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:47:03Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:29:33Z._
